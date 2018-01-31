@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+  <assembly fullname="Framesoft.Parallax">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Framesoft.Parallax.Android">
+    <type fullname="*" />
+  </assembly>
+</linker>
